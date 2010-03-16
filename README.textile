@@ -4,7 +4,7 @@ h2. Usage
 
 h2. Copyright
 
-Copyright (c) 2009 Diego Carrion
+Copyright (c) 2010 Diego Carrion
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
