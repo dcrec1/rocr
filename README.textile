@@ -1,4 +1,8 @@
-h1 Copyright
+h2. Usage
+
+<pre><code>Rocr::Gocr.recognize('path/to/image')</code></pre>
+
+h2. Copyright
 
 Copyright (c) 2009 Diego Carrion
 
